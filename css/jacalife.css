@@ -1,0 +1,16 @@
+.text-black {
+    color: black;
+}
+
+.link-jacalife {
+    cursor: pointer !important;
+}
+
+.subrayado {
+    text-decoration: underline #5c7893;
+}
+
+.h2-convertido {
+    font-size: 1rem;
+    color: grey;
+}
